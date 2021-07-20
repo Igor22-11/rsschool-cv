@@ -1,4 +1,14 @@
+
 div {
+    background-color: azure;
     align-content: center;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header, main > h2, article > h2, section > h2 {
+text-decoration: underline;
+}
+
+li {
+    list-style-position: inside;
 }
