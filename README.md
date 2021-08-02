@@ -1,1 +1,0 @@
-https://Igor22-11.github.io/rsschool-cv/
